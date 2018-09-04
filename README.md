@@ -13,7 +13,7 @@ This technology is frequently used in naval mine detection by many countries.Cla
 
 - First create a virtual environment and install tensorflow (ver. 1.5)
 - Allow system site packages such as pandas,scikit-learn,numpy,scipy,matplotlib in the virtual environment.
-- This repository contains both the training model and the restored model.If you wish to train the model again, execute ***ANN.py***
+- This repository contains both the training model and the restored model.If you wish to train the model again,execute ***ANN.py***
 ```
 python3 ANN.py
 ```
