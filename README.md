@@ -21,4 +21,11 @@ else you can use the already trained model by executing ***restore_ANN.py***
 ```
 python3 restore_ANN.py
 ```
+## About the Dataset
 
+Please [Click Here](http://archive.ics.uci.edu/ml/datasets/connectionist+bench+(sonar,+mines+vs.+rocks)) to know more about the dataset.
+
+## Images
+
+##### Cost VS Epoch
+![picture](Images/Figure_2.png)
