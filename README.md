@@ -1,7 +1,7 @@
 # Naval-Mine-Identifier-using-ANN
 
 A Deep Neural Network is designed to classify between rocks and mines .
-This technology is frequently used in naval mine detection by many countries.Classification is achieved with an accuracy of ***88.83 %***.
+This technology is frequently used in naval mine detection by many countries.Classification is achieved with an accuracy of ***88.83*** %.
 
 ## Modules Used 
 - Tensorflow == 1.5
