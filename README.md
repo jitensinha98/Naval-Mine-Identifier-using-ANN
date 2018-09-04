@@ -27,5 +27,18 @@ Please [Click Here](http://archive.ics.uci.edu/ml/datasets/connectionist+bench+(
 
 ## Images
 
-##### Cost VS Epoch
+##### Dataset class graph
+![picture](https://github.com/jitensinha98/Naval-Mine-Identifier-using-ANN/blob/master/Images/figure_1.png)
+
+##### Epoch vs Cost Function
 ![picture](https://github.com/jitensinha98/Naval-Mine-Identifier-using-ANN/blob/master/Images/figure_2.png)
+
+##### Epoch vs Training Accuracy
+![picture](https://github.com/jitensinha98/Naval-Mine-Identifier-using-ANN/blob/master/Images/figure_3.png)
+
+## License
+
+This project is Licensed under MIT License,please read [Lisence.md](https://github.com/jitensinha98/Naval-Mine-Identifier-using-ANN/blob/master/LICENSE) for more information.
+
+## Author
+- ***Jiten Sinha***-[LinkedIn](https://www.linkedin.com/in/jiten-sinha-131043159/)
