@@ -28,4 +28,4 @@ Please [Click Here](http://archive.ics.uci.edu/ml/datasets/connectionist+bench+(
 ## Images
 
 ##### Cost VS Epoch
-![picture](Images/Figure_2.png)
+![picture](https://github.com/jitensinha98/Naval-Mine-Identifier-using-ANN/blob/master/Images/figure_2.png)
